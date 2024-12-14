@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "801271750517",
+    "project_id": "project2-97040",
+    "storage_bucket": "project2-97040.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801271750517:android:1798b673be2bd0c9317d3c",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsEWvxpdIfTBWvoRiC-IMfS4Olekcgtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801271750517:android:eab09a462d1e8dab317d3c",
+        "android_client_info": {
+          "package_name": "com.example.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsEWvxpdIfTBWvoRiC-IMfS4Olekcgtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801271750517:android:9e3a49bd6e7f4e24317d3c",
+        "android_client_info": {
+          "package_name": "com.example.wandermate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsEWvxpdIfTBWvoRiC-IMfS4Olekcgtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
